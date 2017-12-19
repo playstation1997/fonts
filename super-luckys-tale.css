@@ -1,0 +1,91 @@
+
+body{
+background-image:url("https://compass-ssl.xbox.com/assets/5d/03/5d038509-a0ad-46d7-869d-d572f6ddbfa8.jpg?n=SLT_Highlight-Feature-Background-1084_Clouds_1920x4834_03.jpg");
+background-size: contain; 
+background-repeat: no-repeat; 
+background-position-y:700px;
+}
+.button-section>.c-divider {
+    border-top: 1px solid #000;
+}
+ 
+@media only screen and (max-width:540px){
+.bg-color>section{
+background-color:black;
+ }
+}
+
+@media screen and (max-width: 767px){
+.threeP-hero .button-section .c-action-trigger {margin-top:40px !Important;}
+}
+
+@media only screen and (min-width:768px){
+.m-highlight-feature > div {
+    background: none;
+    color: black;
+    box-shadow:none;
+   } 
+}
+
+@media only screen and (max-width:1084px){
+body{
+background-image:url("https://compass-ssl.xbox.com/assets/70/50/70506d7a-edeb-40d6-a691-c1216a444db8.jpg?n=SLT_Highlight-Feature-Background-768_Clouds_1084x4664_04.jpg");
+background-size: contain; 
+background-repeat: no-repeat; 
+background-position-y:700px;
+ }
+}
+@media only screen and (max-width:765px){
+body{
+background-image:url("https://compass-ssl.xbox.com/assets/2a/31/2a313542-29f2-4204-aa3a-ff23fcc78f5b.jpg?n=SLT_Highlight-Feature-Background-540_Clouds_768x4401_04.jpg");
+background-size: contain; 
+background-repeat: no-repeat; 
+background-position-y:500px;
+ }
+}
+
+@media only screen and (max-width:540px){
+body{
+background-image:url("https://compass-ssl.xbox.com/assets/25/6a/256a1b30-77ee-4bb9-aa2d-dc0d9aa3455c.jpg?n=SLT_Highlight-Feature-Background-0_Clouds_540x3733_04.jpg");
+background-size: contain; 
+background-repeat: no-repeat; 
+background-position-y:300px;
+ }
+}
+
+.m-highlight-feature > div {
+    background: none !important;
+color: black !important;
+box-shadow:none !important;
+}
+
+.m-cta-module .c-image {
+    margin: 6px auto;
+}
+@media screen and (max-width: 1275px) {
+.welcometext {
+font-size: calc(60px + .1vw) !important;
+line-height: 1.1 !important;
+}
+}
+
+@media screen and (min-width: 1276px) {
+.welcometext  {
+font-size: calc(80px + .1vw) !important;
+word-spacing: 5px;
+line-height: 1.1 !important;
+} 
+}
+
+@media screen and (max-width: 480px) {
+.welcometext  {
+font-size: calc(30px + .1vw) !important;
+word-spacing: 5px;
+line-height: 1.1 !important;
+} 
+}
+.excplatforms img {
+    display: inline-block !important;
+    margin: 10px 12px 24px!important;
+}
+
